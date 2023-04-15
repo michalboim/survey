@@ -1,0 +1,17 @@
+.show_votes{
+    display: flex;
+    gap: 60px;
+}
+.result{
+    background-color: aquamarine;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.all_results{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
